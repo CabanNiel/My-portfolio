@@ -417,25 +417,22 @@ span{
     cursor: pointer;
 }
 .bar .progress-line.javascript span{
-    width: 100%;
+    width: 90%;
     background-color: gold;
 }
 
 .bar .progress-line.mysql span{
-    width: 80%;
+    width: 20%;
     background-color: rgb(58, 58, 255);
 }
-.bar .progress-line.css span{
-    width: 75%;
-    background-color: lightskyblue;
-}
+
 .bar .progress-line.html span{
-    width: 100%;
+    width: 25%;
     background-color: rgb(250, 135, 145);
 }
 
 .bar .progress-line.css span{
-    width: 95%;
+    width: 45%;
     background-color: blue;
 }
 .timeline-section{
