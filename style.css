@@ -417,7 +417,7 @@ span{
     cursor: pointer;
 }
 .bar .progress-line.javascript span{
-    width: 90%;
+    width: 20%;
     background-color: gold;
 }
 
@@ -427,7 +427,7 @@ span{
 }
 
 .bar .progress-line.html span{
-    width: 25%;
+    width: 75%;
     background-color: rgb(250, 135, 145);
 }
 
